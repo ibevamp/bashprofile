@@ -1,5 +1,7 @@
 # .bash_profile
-
+#taken from https://gist.github.com/vratiu/9780109
+#modified the PS1 Output to show branch after folder
+# 02:33:37 /var/www/html/drupalsite (main) $ 
 # Get the aliases and functions
 if [ -f ~/.bashrc ]; then
 	. ~/.bashrc
